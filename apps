@@ -1,0 +1,6 @@
+Role				Module
+--------------------------------------------------------
+Service Discovery Server	service-discovery-server
+Config Server			config-server
+Service Discovery Client	shout-server
+Config Server Client		shout-app
